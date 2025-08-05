@@ -1,6 +1,6 @@
 JunkFactory is a cross-platform graphical file generator implemented in Python, designed to create large files (including sparse files) efficiently. It provides a user-friendly GUI for generating placeholder, test, or dummy files without consuming actual disk space (when sparse mode is enabled).（Currently supports Chinese only）
 
-Directory Structure
+Directory Structure：
 JunkFactory.py
 resources/
 └── icons/
