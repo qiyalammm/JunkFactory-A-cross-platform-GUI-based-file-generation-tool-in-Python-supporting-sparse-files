@@ -1,2 +1,1 @@
-JunkFactory is a cross-platform graphical file generator implemented in Python, designed to create large files (including sparse files) efficiently. It provides a user-friendly GUI for generating placeholder, test, or dummy files without consuming actual disk space (when sparse mode is enabled).
-JunkFactory 是一个用 Python 实现的跨平台图形文件生成器，旨在高效地创建大文件（包括稀疏文件）。它提供了一个用户友好的 GUI，用于生成占位符、测试或虚拟文件，而不会占用实际磁盘空间（启用稀疏模式时）。
+JunkFactory is a cross-platform graphical file generator implemented in Python, designed to create large files (including sparse files) efficiently. It provides a user-friendly GUI for generating placeholder, test, or dummy files without consuming actual disk space (when sparse mode is enabled).（Currently supports Chinese only）
